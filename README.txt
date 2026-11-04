@@ -13,6 +13,7 @@ Project details:
 - Tablet layout uses a side-by-side ListView and FrameLayout
 - Tablet layout resource folder: app/src/main/res/layout-sw720dp
 
-Git branch included in this project: lab7
+Git branches included in this project: lab7 and lab_7
+The assignment sheet names the branch lab_7. The requested lab7 branch is also included.
 
 After opening the project, allow Android Studio to sync Gradle. Run the app on a phone emulator and a tablet emulator with a smallest width of at least 720dp. The report requires 3-5 screenshots from the running application. Add your own emulator screenshots to the report before submitting it to Brightspace.
